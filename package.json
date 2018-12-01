@@ -1,6 +1,6 @@
 {
   "name": "git-commit-demo",
-  "version": "1.3.1",
+  "version": "1.4.1",
   "main": "index.js",
   "repository": "https://github.com/pashangshangpo/git-commit-demo.git",
   "author": "爬上上坡 <pashangshangpo@gmail.com>",
