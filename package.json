@@ -7,8 +7,12 @@
   "license": "MIT",
   "scripts": {
     "version": "standard-version",
-    "tag": "git push --follow-tags origin master",
-    "commit-msg": "commitlint -E GIT_PARAMS"
+    "tag": "git push --follow-tags origin master"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   },
   "devDependencies": {
     "@commitlint/cli": "^7.2.1",
