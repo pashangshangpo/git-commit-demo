@@ -1,14 +1,13 @@
 {
   "name": "git-commit-demo",
-  "version": "1.8.1",
+  "version": "1.8.0",
   "main": "index.js",
   "repository": "https://github.com/pashangshangpo/git-commit-demo.git",
   "author": "爬上上坡 <pashangshangpo@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "version": "standard-version",
-    "tag": "git push --follow-tags origin master"
+    "version": "standard-version"
   },
   "husky": {
     "hooks": {
