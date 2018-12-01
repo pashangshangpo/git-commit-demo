@@ -1,12 +1,13 @@
 {
   "name": "git-commit-demo",
-  "version": "1.2.1",
+  "version": "1.2.0",
   "main": "index.js",
   "repository": "https://github.com/pashangshangpo/git-commit-demo.git",
   "author": "爬上上坡 <pashangshangpo@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "version": "standard-version"
+    "version": "standard-version",
+    "tag": "git push --follow-tags origin master"
   },
   "standard-version": {
     "skip": {
