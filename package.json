@@ -9,12 +9,6 @@
     "version": "standard-version",
     "tag": "git push --follow-tags origin master"
   },
-  "standard-version": {
-    "skip": {
-      "commit": true,
-      "tag": true
-    }
-  },
   "devDependencies": {
     "standard-version": "^4.4.0"
   }
