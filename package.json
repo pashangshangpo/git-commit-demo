@@ -7,11 +7,13 @@
   "license": "MIT",
   "scripts": {
     "version": "standard-version",
-    "tag": "git push --follow-tags origin master"
+    "tag": "git push --follow-tags origin master",
+    "commit-msg": "commitlint -E GIT_PARAMS"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.2.1",
     "@commitlint/config-conventional": "^7.1.2",
+    "husky": "^1.2.0",
     "standard-version": "^4.4.0"
   }
 }
