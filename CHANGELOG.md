@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/pashangshangpo/git-commit-demo/compare/v1.4.1...v1.6.0) (2018-12-01)
+
+
+### Features
+
+* 新增 log aaaa ([dd0499b](https://github.com/pashangshangpo/git-commit-demo/commit/dd0499b))
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/pashangshangpo/git-commit-demo/compare/v1.3.1...v1.4.1) (2018-12-01)
 
